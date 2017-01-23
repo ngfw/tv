@@ -2,7 +2,7 @@
 
 ### Installation
 ```bash
-git clone ...
+git clone https://github.com/ngfw/tv.git
 ```
 then edit `settings.json`.
 
