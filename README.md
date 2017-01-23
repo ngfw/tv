@@ -1,4 +1,5 @@
 # Fun With Roku & Plex
+These are command line tools, if you are looking for UI, Please visit https://github.com/ngfw/roku-remote
 
 ### Installation
 ```bash
